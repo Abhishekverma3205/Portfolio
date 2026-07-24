@@ -113,7 +113,9 @@ Feel free to fork the repository and open a pull request.
 
 ## 📄 License
 
-This project is currently unlicensed. If you plan to reuse code/design components, please open an issue first.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
 
